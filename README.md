@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mashaa3er Mosh Htet2al |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mashaa3er-mosh-htet2al/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك في الليل تنادي لقلبي
+> ونار الشوق تزيد في دربي
+> روحي معاك ما تقدر تخبي
+> أنا لك دايما وكل ما تطلبي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
